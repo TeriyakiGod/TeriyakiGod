@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TeriyakiGod
+- 👋 Hi, I’m Kacper
 - 👀 I’m interested in VIDEO GAMES
 - 🌱 I’m currently learning shaders and stuff
 - 💞️ I’m looking to collaborate on... not sure about this one (other humans annoy me)
